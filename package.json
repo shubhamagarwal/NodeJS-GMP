@@ -1,0 +1,15 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "NodeJs Mentoring Program",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "task1": "nodemon task1.1.js"
+  },
+  "dependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "author": "Shubham Agarwal",
+  "license": "ISC"
+}
